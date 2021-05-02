@@ -1,6 +1,6 @@
 # BullsAndCows
 
-A little task from codingame:   https://www.codingame.com/ide/puzzle/bulls-and-cows
+A little task from codingame, that i did during studing :   https://www.codingame.com/ide/puzzle/bulls-and-cows
 
 The goal and the task:
 
